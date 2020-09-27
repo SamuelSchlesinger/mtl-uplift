@@ -1,5 +1,7 @@
 # mtl-uplift
 
+[![Hackage](https://img.shields.io/hackage/v/mtl-uplift.svg)](https://hackage.haskell.org/package/mtl-uplift)
+
 Uplift entire substacks of monad transformer stacks, boilerplate free!
 
 Many industry Haskell programmers are all too familiar with code like:
