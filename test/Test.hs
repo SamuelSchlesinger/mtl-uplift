@@ -4,6 +4,7 @@ module Main where
 
 import Control.Monad.Trans.Uplift
 
+import Control.Monad (guard)
 import Control.Monad.State
 import Control.Monad.Writer
 import Control.Monad.Reader
